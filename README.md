@@ -1,5 +1,5 @@
 # Ship of Thesis                                                                       
-[FAQ](#FAQs) | [Resources](Resources/)
+[FAQ](#FAQs) | [Resources](Resources/) | [How tos](Howtos/)
 
 The idea of PhD is to push the boundary of the human knowledge. Few years are spent doing the research and the findings are documented in a dissertation/PhD thesis. At the end of the PhD, thesis becomes a static document, holding the essence of someone's research during thier PhD. Further, many of the databases of PhD theses are paywalled. And these are the two big motivations for this project, the Ship of Thesis. Though, a long list of the reasons is given below.
 # The idea!
@@ -14,12 +14,18 @@ Here, we aim to create a central and crowd-sourced database of PhD theses. The a
 * **Open questions** The open section could be a chapter in the thesis or could be a separate document in the repository that gets updated as and when people or you yourself conquer the new unknowns.
 * **Thesis for layman** The github version could also contains the unpolished version with lot more details which would help people from outside the field read with less effort. 
 # FAQs:
-Q. I don't know how to use git, what do I do?
 
-Q. I have my thesis on overleaf, how can I connect overleaf and github?
+<font color='green'> Q.</font> I don't know how to use git, what do I do?
 
-Q. Can I contribute to this 'Ship of Thesis'?
+<font color='green'> A.</font> Ah, no worries! Git is this wonderful tool that does not take much time to learn. We have put together a small tutorial [here](Resources/git_guide.md) that should teach you just enough git for shipofthesis. But, we would highly recommend you to learn more. Links to more resources in are in the tutorial itself
 
+<font color='green'> Q.</font>  I have my thesis on overleaf, how can I connect overleaf and github?
+
+<font color='green'> A.</font>  [Here](Howtos/overleaf_git_integration.md)
+
+<font color='green'> Q.</font>  Can I contribute to this 'Ship of Thesis'?
+
+<font color='green'> A.</font> [Here](Howtos/contributing_your_thesis.md)
 
 [//]: # (% * **Version control** 
 % * **Time evolution of the field**
