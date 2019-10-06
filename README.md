@@ -16,15 +16,15 @@ Here, we aim to create a central and crowd-sourced database of PhD theses. The a
 # FAQs:
 
 <font color='green'> Q.</font> I don't know how to use git, what do I do?
-
+<br/>
 <font color='green'> A.</font> Ah, no worries! Git is this wonderful tool that does not take much time to learn. We have put together a small tutorial [here](Resources/git_guide.md) that should teach you just enough git for shipofthesis. But, we would highly recommend you to learn more. Links to more resources in are in the tutorial itself
-
+<br/>
 <font color='green'> Q.</font>  I have my thesis on overleaf, how can I connect overleaf and github?
-
+<br/>
 <font color='green'> A.</font>  [Here](Howtos/overleaf_git_integration.md)
-
+<br/>
 <font color='green'> Q.</font>  Can I contribute to this 'Ship of Thesis'?
-
+<br/>
 <font color='green'> A.</font> [Here](Howtos/contributing_your_thesis.md)
 
 [//]: # (% * **Version control** 
