@@ -9,7 +9,7 @@ There are two ways to have git integration with overleaf.
 
 - In the upper left corner, click on the menu button, it should bring up side bar.
 
-![alt text](https://github.com/shipofthesis/shipofthesis/tree/master/images/1.png)
+![ ](https://github.com/shipofthesis/shipofthesis/tree/master/images/1.png, 100x40)
 - Around the middle of the side bar, there should be three options under the heading sync, Dropbox, git, github. 
 
 ![ ](images/2a.png)
