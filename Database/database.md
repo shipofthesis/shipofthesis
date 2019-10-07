@@ -13,7 +13,7 @@ Department:
 </br>
 Month/Year: mm/yyyy
 </br>
-Github URL: https://github.com/shipofthesis/shipofthesis
+Thesis Github URL: https://github.com/shipofthesis/shipofthesis
 </br>
 Field of study: {Field_1, Field_2} 
 </br>
@@ -32,7 +32,7 @@ Department: The Department of Chemistry and Chemical Biology
 </br>
 Month/Year: 11/2011
 </br>
-Github URL: https://github.com/shipofthesis/shipofthesis
+Thesis Github URL: https://github.com/jdwhitfield/jdw.thesis
 </br>
 Field of study: {quantum computing, quantum chemistry} 
 </br>
