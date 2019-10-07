@@ -1,7 +1,7 @@
 # Ship of Thesis                                                                       
 [FAQ](#FAQs) | [Resources](Resources/) | [How tos](Howtos/)
 
-The idea of PhD is to push the boundary of the human knowledge. Few years are spent doing the research and the findings are documented in a dissertation/PhD thesis. At the end of the PhD, thesis becomes a static document, holding the essence of someone's research during thier PhD. Further, many of the databases of PhD theses are paywalled. And these are the two big motivations for this project, the Ship of Thesis. Though, a long list of the reasons is given below.
+The idea of PhD is to push the boundary of the human knowledge. Few years are spent doing the research and the findings are documented in a dissertation/PhD thesis. At the end of the PhD, thesis becomes a static document, holding the essence of someone's research during their PhD. Further, many of the databases of PhD theses are paywalled. And these are the two big motivations for this project, the Ship of Thesis. Though, a long list of the reasons is given below.
 # The idea!
 Here, we aim to create a central and crowd-sourced database of PhD theses. The author of the thesis will create a github repository with their thesis and supplementary material. The details of the thesis and the link to the github repository could then be submitted to this repository. We encourage especially the people who are starting to write their thesis to submit the details. This could help them get real-time feedback from the community. But, please be cognizant of how much help you are taking from the community and make sure to acknowledge people providing feedback appropriately.
 %The details for submission are presented here.
