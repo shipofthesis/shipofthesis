@@ -9,6 +9,8 @@ Name: Firstname Lastname (optional email address)
 </br>
 Institution: University Name
 </br>
+Advisor: Firstname Lastname 
+</br>
 Department: 
 </br>
 Month/Year: mm/yyyy
@@ -22,11 +24,13 @@ Field of study: {Field_1, Field_2}
 
 -->
 
-Title: Title of thesis
+Title: At the intersection of quantum computing and quantum chemistry
 </br>
-Name: James Daniel Whitfield (james.d.whitfield@dartmouth.edu)
+Name: [James Daniel Whitfield](jdwhtifield.com)  (james.d.whitfield@dartmouth.edu)
 </br>
 Institution: Harvard University
+</br>
+Advisor: [A. Aspuru-Guzik](https://matter.toronto.edu)
 </br>
 Department: The Department of Chemistry and Chemical Biology
 </br>
