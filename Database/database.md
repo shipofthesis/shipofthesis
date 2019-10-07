@@ -40,3 +40,5 @@ Thesis Github URL: https://github.com/jdwhitfield/jdw.thesis
 </br>
 Field of study: {quantum computing, quantum chemistry} 
 </br>
+
+---
