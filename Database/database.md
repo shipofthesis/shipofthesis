@@ -37,7 +37,7 @@ Department: The Department of Chemistry and Chemical Biology
 </br>
 Month/Year: 11/2011
 </br>
-Thesis Github URL: https://github.com/jdwhitfield/jdw.thesis
+Thesis Github URL: https://github.com/jdwhitfield/jdw.thesis.github
 </br>
 Field of study: {quantum computing, quantum chemistry} 
 </br>
