@@ -34,6 +34,8 @@ Here, we aim to create a central and crowd-sourced database of PhD theses. The a
 <font color='green'> Q.</font>  Why the name, 'Ship of Thesis'?
 <br/>
 <font color='green'> A.</font> It is a word play on a beautiful thought experiment, ['Ship of Theseus'](https://en.wikipedia.org/wiki/Ship_of_Theseus). 10 points if you got the word play as well as the deeper connection.
+
+
 [//]: # (% * **Version control** 
 % * **Time evolution of the field**
 % * **Switching directions**)
