@@ -18,19 +18,19 @@ Here, we aim to create a central and crowd-sourced database of PhD theses. The a
 <font color='green'> Q.</font> I don't know how to use git, what do I do?
 <br/>
 <font color='green'> A.</font> Ah, no worries! Git is this wonderful tool that does not take much time to learn. We have put together a small tutorial [here](Resources/git_guide.md) that should teach you just enough git for shipofthesis. But, we would highly recommend you to learn more. Links to more resources in are in the tutorial itself
-<br/>
+<br/><br/>
 <font color='green'> Q.</font>  I have my thesis on overleaf, how can I connect overleaf and github?
 <br/>
 <font color='green'> A.</font>  [Here](Howtos/overleaf_git_integration.md)
-<br/>
+<br/><br/>
 <font color='green'> Q.</font>  Can I contribute to this 'Ship of Thesis'?
 <br/>
 <font color='green'> A.</font> [Here](Howtos/contributing_your_thesis.md)
-<br/>
+<br/><br/>
 <font color='green'> Q.</font>  How I can contribute towards the project?
 <br/>
 <font color='green'> A.</font> There are many ways you can contribute toward this project. We still need a tutorial for the git. If you are good at technical writing, please go ahead and write up a brief tutorial for git. Other than that, you can find and fix typos, come up with the ideas to improve current implementation. We also own the domain shipofthesis.org which redirects to this github page. If you'd like to set up a website, that will be amazing too! 
-<br/>
+<br/><br/>
 <font color='green'> Q.</font>  Why the name, 'Ship of Thesis'?
 <br/>
 <font color='green'> A.</font> It is a word play on a beautiful thought experiment, ['Ship of Theseus'](https://en.wikipedia.org/wiki/Ship_of_Theseus). 10 points if you got the word play as well as the deeper connection.
