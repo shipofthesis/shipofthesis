@@ -43,3 +43,27 @@ Field of study: {quantum computing, quantum chemistry}
 </br>
 
 ---
+
+
+---
+Template for updating information about your thesis. You can just copy and paste the following at the end of this file. A small note for updating the field of study. Feel free add more than one field of study. 
+
+
+Title: Title of thesis
+</br>
+Name: James Brown (9jhb3@queensu.ca)
+</br>
+Institution: Queen's University
+</br>
+Advisor: Tucker Carrington Jr
+</br>
+Department: Physics, Engineering Physics & Astronomy
+</br>
+Month/Year: 10/2016
+</br>
+Thesis Github URL: https://github.com/brownj42/jamesbrownphd
+</br>
+Field of study: {Quantum dynamics, basis sets} 
+</br>
+
+---
