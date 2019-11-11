@@ -47,7 +47,7 @@ Field of study: {quantum computing, quantum chemistry}
 
 ---
 
-Title: Title of thesis
+Title: Using phase-space localized basis functions toobtain vibrational energies of molecules
 </br>
 Name: James Brown (9jhb3@queensu.ca)
 </br>
