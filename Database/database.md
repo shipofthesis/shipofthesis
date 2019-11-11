@@ -43,3 +43,25 @@ Field of study: {quantum computing, quantum chemistry}
 </br>
 
 ---
+
+
+---
+
+Title: Using phase-space localized basis functions toobtain vibrational energies of molecules
+</br>
+Name: James Brown (9jhb3@queensu.ca)
+</br>
+Institution: Queen's University
+</br>
+Advisor: Tucker Carrington Jr
+</br>
+Department: Physics, Engineering Physics & Astronomy
+</br>
+Month/Year: 10/2016
+</br>
+Thesis Github URL: https://github.com/brownj42/jamesbrownphd
+</br>
+Field of study: {Quantum dynamics, basis sets} 
+</br>
+
+---
