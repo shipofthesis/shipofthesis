@@ -46,8 +46,6 @@ Field of study: {quantum computing, quantum chemistry}
 
 
 ---
-Template for updating information about your thesis. You can just copy and paste the following at the end of this file. A small note for updating the field of study. Feel free add more than one field of study. 
-
 
 Title: Title of thesis
 </br>
