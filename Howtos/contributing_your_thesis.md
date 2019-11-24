@@ -1,6 +1,8 @@
 # Contributing your thesis to Ship of Thesis.
 
-First of all thank you so much for considering to contribute to ship of thesis. The process for contribution is extremely simple. 
+First of all thank you so much for considering to contribute to ship of thesis. 
+Before you contribute, just quickly checkout the section on [licensing and copyright](licensing_and_copyright.md).
+<br />The process for contribution is extremely simple. 
 
 - Go to the main page of the repository.
 
